@@ -29,7 +29,6 @@
   <img align="center" alt="Gui-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Gui-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img align="center" alt="Gui-postgresqlt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Gui-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   
 </div>
 
@@ -46,4 +45,3 @@
 </div>
 <br>
 
- ![Snake animation](https://github.com/guiquintero/guiquintero/blob/output/github-contribution-grid-snake.svg)
