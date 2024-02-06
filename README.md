@@ -3,7 +3,7 @@
 <ul>
   <li>Computer Science - UTFpr</li>
   <li>PR - Brazil</li>
-  <li>Currently studying Java, C++ and JS</li>
+  <li>Currently studying JS, TS and React</li>
  </ul>
 <br>
 <div>
