@@ -1,15 +1,22 @@
 ### Hi there, I'm Guilherme Quintero
 
-<ul>
-  <li>Computer Science - UTFpr</li>
-  <li>PR - Brazil</li>
-  <li>Currently studying JS, TS and React</li>
- </ul>
+<p>
+  
+My journey into programming began with a passion for exact sciences, especially mathematics. In high school, I was drawn to the field of mechanical engineering. However, as I explored the nuances of different engineering disciplines over the years, I made the decision to transition to computer engineering. A week before a scheduled visit to one of my preferred colleges, I had the opportunity to meet the coordinator of the computer science program. This encounter led me to reconsider my choice of study. 
+</p>
+<p>
+  Now, four years later, I'm on the verge of graduating in computer science, with a rich array of extension projects, scientific research experiences, and a wealth of practical knowledge under my belt.
+</p>
 <br>
 <div>
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=guiquintero&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiquintero&layout=compact&theme=dark">
 </div>
+<br>
+<br>
+<p align="center">
+  <a href="https://wakatime.com/@018e7b3a-1816-4fab-b263-e47cc31670f7"><img src="https://wakatime.com/badge/user/018e7b3a-1816-4fab-b263-e47cc31670f7.svg"></img></a>
+</p>
 
 
 
@@ -29,6 +36,8 @@
   <img align="center" alt="Gui-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Gui-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img align="center" alt="Gui-postgresqlt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Gui-postgresqlt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Gui-postgresqlt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   
 </div>
 
